@@ -24,4 +24,4 @@ Hola, Mi nombre es Jose Almendarez y mi carnet es 18006306.
 
 Hola, Mi nombre es Emily Merlos y mi carnet es 18009133
 
-Hola, Mi nombre es Byron Virula y ni carnet es 18008616
+Hola, Mi nombre es Byron Virula y ni carnet es 18008616.
