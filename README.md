@@ -24,6 +24,14 @@ Hola, mi nombre es Edvin Solares y mi carne es 20000411<br>
 Hola, mi nombre es Eduardo Meister y mi carne es 20006044<br>
 Hola, mi nombre es Byron Lopez y mi carné es 14003544.<br>
 Hola, mi nombre es Rony Orlando Alonzo Juarez y mi carné es 04118037.<br>
-Hola, mi nombre es Yeffry Aroche y mi carne es. 20007024.<br>
+Hola, mi nombre es Yeffry Armando Aroche Deras y mi carne es. 20007024.<br>
 Hola, mi nombre es William Catalán y mi carné es 20002284.<br>
+Hola, mi nombre es Marco Saravia y mi carné es 20000210. <br>
+Hola, mi nombre es Gary Jiménez y mi carné es 20002483.<br>
+Hola mi nombre es Iveth Martin y mi carné es 20009051.<br>
+Hola, mi nombre es Milton Crisostomo Escalante y mi carné es 20006294.<br>
+Hola, mi nombre es Edwin Pérez y mi carneé es 20003529.<br>
+Hola, mi nombre es Karla Ortiz y mi carné es 19012620.<br>
+Hola, mi nombre es Axel Mazariegos y mi carné es 15008379.<br>
+Hola, mi nombre es Victor Hugo Salguero y mi carné es 20007505.<br>
 Hola, mi nombre es Kimberly del Cid y mi carné es 20007497.<br>
